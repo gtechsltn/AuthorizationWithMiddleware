@@ -1,0 +1,6 @@
+@AuthorizationWithMiddleware_HostAddress = http://localhost:5068
+
+GET {{AuthorizationWithMiddleware_HostAddress}}/authorizationwithmiddleware/
+Accept: application/json
+
+###
